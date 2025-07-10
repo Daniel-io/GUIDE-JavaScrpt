@@ -1,5 +1,5 @@
 
-
+// Lookup Table or Mapping Object pattern.
 
 const Status = {
   OK:    "ok",
@@ -15,3 +15,15 @@ const messages = {
 
 console.log(messages.ok);    // "All systems go."
 console.log(messages.error); // "Something went wrong!"
+
+
+
+
+/**
+ 
+Why use it?
+Avoids repetitive conditional code.
+Easy to update or extend reactions by just modifying the map.
+Improves performance by O(1) key access instead of multiple condition checks.
+
+ */
