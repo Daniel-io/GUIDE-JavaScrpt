@@ -1,5 +1,11 @@
+/**
+ 
+✅ Object key referencing with computed property names
+Combined with a pattern called:
 
-// Lookup Table or Mapping Object pattern.
+✅ Enum simulation (or enum-like pattern)
+
+ */
 
 const Status = {
   OK:    "ok",
