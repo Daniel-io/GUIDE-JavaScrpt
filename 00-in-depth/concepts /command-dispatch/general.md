@@ -1,3 +1,15 @@
+<!-- ====================================================================
+   COMMAND/DISPATCH 
+===================================================================== -->
+
+* The Command Dispatch Pattern is a design pattern where commands (or messages) are dispatched to handlers based on some key—usually a string or type. It's often used to decouple the request from the execution logic.
+
+
+
+
+
+
+
 ## 1. 🧩 Command Dispatcher Pattern (aka Command Pattern)
 
 A clean, scalable way to map strings (commands) to functions (handlers).
