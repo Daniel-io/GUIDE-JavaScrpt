@@ -1,11 +1,12 @@
+
 # GENERAL PATTERNS
 
-
-
-
-
-
-
+- [ ] Factory Pattern
+- [ ] Event delegation
+- [ ] Debounce
+- [ ] Command dispatch 
+- [ ] Lazy Initialization
+- [ ] Getter Methods
 
 
 
@@ -14,12 +15,7 @@
 
 
 - [ ] Map object
-- [ ] Event delegation
-
-
-
-
-
+- [ ] Computed Object Key
 
 
 
@@ -39,8 +35,20 @@ PILLARS
 ## 1 LOGGER
 
 
-1. Use Factory Pattern
-2. Use object Map for log Levels
-3. Use threshold System
+- [ ] Use Factory Pattern
+- [ ] Use object Map for log Levels
+- [ ] Use threshold System
 
 
+
+
+
+
+## 2 Init Function
+
+
+What Belongs in init()
+- [ ] Attach event listeners
+- [ ] Set Initial State
+- [ ] Render initial UI
+- [ ] Fetch/load any needed data
